@@ -14,3 +14,4 @@
 - Now lets add some css to our code I am going to choose Sass with this project
   - Finally basic code setup is done
 - Logo made with the help of canva
+- now I am gonna add framer motion library
