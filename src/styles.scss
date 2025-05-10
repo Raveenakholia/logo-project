@@ -1,0 +1,16 @@
+/** @format */
+$base-color: #f0f0f0;
+$font-sans: 'Arial, sans-serif';
+$heading-color: #333;
+
+.hello {
+  font-family: $font-sans;
+  color: $base-color;
+  background-color: $heading-color;
+}
+
+body {
+  background-color: $base-color;
+  font-family: $font-sans;
+  color: $heading-color;
+}

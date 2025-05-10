@@ -1,9 +1,11 @@
 /** @format */
 
-import React from 'react';
-
 const App = () => {
-  return <div>Hi Parcel bundler we all set up to rock</div>;
+  return (
+    <div>
+      <p className='hello'>Hi Parcel bundler we all set up to rock</p>
+    </div>
+  );
 };
 
 export default App;
