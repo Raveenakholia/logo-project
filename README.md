@@ -14,4 +14,5 @@
 - Now lets add some css to our code I am going to choose Sass with this project
   - Finally basic code setup is done
 - Logo made with the help of canva
-- now I am gonna add framer motion library
+- now I am gonna add framer motion
+- Now the bundler is creating issue in working directory so I am gonna add a script for handling HMR ,minification, cache handling
