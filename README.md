@@ -16,3 +16,5 @@
 - Logo made with the help of canva
 - now I am gonna add framer motion
 - Now the bundler is creating issue in working directory so I am gonna add a script for handling HMR ,minification, cache handling
+- Now let's continue where I have left
+- Motivation - Everyone's asleep Peacefullly Hahaha lol That's how coding works
