@@ -5,7 +5,7 @@
 # step by step process
 
 -Please have some ppatience while I am upload this on my gihub profile or Linkedin Hub as I am newbie in Freelancing Why I am writing this because I don't want anyone credit's to be mine so please It's a Humble request from me to everyone.
-@AkshaySiani (PLease watch my this project as I am following your teacchings Guidance so be my Saviour for my very first project that I am going to make and please Guide me and watch my this project I am starting this very fisrt project from all the teaching you have been providing throughout these years)
+ @akshaymarch7 (PLease watch my this project as I am following your teacchings Guidance so be my Saviour for my very first project that I am going to make and please Guide me and watch my this project I am starting this very fisrt project from all the teaching you have been providing throughout these years)
 
 # Initiate package.json file
 
