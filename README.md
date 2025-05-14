@@ -19,9 +19,7 @@ Please have some patience while I upload this to my GitHub profile or LinkedIn H
 - Logo made with the help of Canva
 - Now I am gonna add Framer Motion
 - Now the bundler is creating an issue in the working directory, so I am gonna add a script for handling HMR, minification, and cache handling
-  - https://stackoverflow.com/questions/55369921/how-to-stop-local-server-with-parcel-bundler
-  - let bundler = new Bundler(entryFile, options);
-    let b = await bundler.serve();
-    b.close();
+  ## Acknowledgements
+   - This project uses parts of (https://stackoverflow.com/questions/55369921/how-to-stop-local-server-with-parcel-bundler) by @luka,
 - Now let's continue where I have left off
 - Motivation - Everyone's asleep Peacefully Hahaha lol That's how coding works
