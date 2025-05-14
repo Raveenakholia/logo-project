@@ -1,5 +1,5 @@
 <!-- @format -->
-
+(Copied from Google)
 Software engineering work ethics emphasize honesty, integrity, and a commitment to the public good and societal impact. It also includes adhering to professional standards, respecting intellectual property, and ensuring the safety and security of software. Ethical software engineers prioritize user privacy, fairness and strive to create software that benefits society. 
 Here's a more detailed look at key aspects of software engineering ethics:
 1. Honesty and Integrity:
