@@ -20,6 +20,6 @@ Please have some patience while I upload this to my GitHub profile or LinkedIn H
 - Now I am gonna add Framer Motion
 - Now the bundler is creating an issue in the working directory, so I am gonna add a script for handling HMR, minification, and cache handling
   ## Acknowledgements
-   - This project uses parts of (https://stackoverflow.com/questions/55369921/how-to-stop-local-server-with-parcel-bundler) by @luka,
+   - This project uses parts of (https://stackoverflow.com/questions/55369921/how-to-stop-local-server-with-parcel-bundler) by @users/1909118/luka
 - Now let's continue where I have left off
 - Motivation - Everyone's asleep Peacefully Hahaha lol That's how coding works
